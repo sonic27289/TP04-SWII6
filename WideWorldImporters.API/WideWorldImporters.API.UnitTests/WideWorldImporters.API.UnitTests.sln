@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WideWorldImporters.API.UnitTests", "WideWorldImporters.API.UnitTests\WideWorldImporters.API.UnitTests.csproj", "{F08BE5BB-CED7-49FA-A48C-037DC6928099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F08BE5BB-CED7-49FA-A48C-037DC6928099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F08BE5BB-CED7-49FA-A48C-037DC6928099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F08BE5BB-CED7-49FA-A48C-037DC6928099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F08BE5BB-CED7-49FA-A48C-037DC6928099}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {591D17B8-19EB-49C1-AE49-B58DAA29BAAF}
+	EndGlobalSection
+EndGlobal
