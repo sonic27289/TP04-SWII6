@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6NTHsaj/5v2OWQKD0lkpsf801GnaobaR8za2TmPu9JPKA2WuvfhgdI1NxU48YJbaLpm8SQuLx3evxy0Lm3QJwg==",
+  "dgSpecHash": "iO46Tses0jyFWEWZcd+8fH++99Aj07R97Q1k0qE+mzQBd/S5BuuuyiEnt+DkIG/hkh2toWGkOLgT8VVCXEQTtQ==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
+  "projectFilePath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

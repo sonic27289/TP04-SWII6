@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0MA51ETtXniD95mKPlvh0/2oEN+AYn7D+UXnYMa/je6WyaSkdxJ/HqKIHYMp3FK0Kq8Tke2gEl1WFpHZAGLfIQ==",
+  "dgSpecHash": "03rPvOj8+cG+WKDZH3lJj9GJjpypF9DHh+loDqFezT/+uLhRIGlLai0wSYxZFpH5j6t3H1dePVzjtWB23LgPXA==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\WideWorldImporters.API.IntegrationTests.csproj",
+  "projectFilePath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\WideWorldImporters.API.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\1.1.3\\microsoft.aspnetcore.antiforgery.1.1.3.nupkg.sha512",

@@ -11997,11 +11997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
+      "projectUniqueName": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
       "projectName": "WideWorldImporters.API",
-      "projectPath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
+      "projectPath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API\\obj\\",
+      "outputPath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Visual Studio Shared\\NuGetPackages",

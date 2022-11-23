@@ -9406,11 +9406,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\WideWorldImporters.API.IntegrationTests.csproj",
+      "projectUniqueName": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\WideWorldImporters.API.IntegrationTests.csproj",
       "projectName": "WideWorldImporters.API.IntegrationTests",
-      "projectPath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\WideWorldImporters.API.IntegrationTests.csproj",
+      "projectPath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\WideWorldImporters.API.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\obj\\",
+      "outputPath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Visual Studio Shared\\NuGetPackages",
@@ -9433,11 +9433,11 @@
         "netcoreapp2.1": {
           "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj": {
-              "projectPath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj"
+            "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj": {
+              "projectPath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj"
             },
-            "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj": {
-              "projectPath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj"
+            "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj": {
+              "projectPath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API\\WideWorldImporters.API.csproj"
             }
           }
         }

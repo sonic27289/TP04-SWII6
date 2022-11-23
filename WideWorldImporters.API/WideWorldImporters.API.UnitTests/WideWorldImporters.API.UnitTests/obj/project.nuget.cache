@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bZzLLQU/45dpHLtH7161AgvVU8NrdbD7vAOxzVJGtdNpuPYC5ecM8LVzmFvXFqk6NhhLx6WowT9qI9pH+5MC3g==",
+  "dgSpecHash": "phtqihiHgMt4P7z9Q7ZO25s3dE36GuVbhMVvOjy7nDEtsgy7cgN3D+OghAs7OrTUtfeCipl63gSKRvCQ+/zIuQ==",
   "success": true,
-  "projectFilePath": "E:\\Projetos\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj",
+  "projectFilePath": "E:\\Projetos\\TP04-SWII6\\WideWorldImporters.API\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests\\WideWorldImporters.API.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
